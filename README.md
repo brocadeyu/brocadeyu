@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**brocadeyu/brocadeyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### about me :
 
-Here are some ideas to get you started:
+## 求工作ing😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭 熟练掌握HTML CSS JavaScript及前端常用工具
+
+🌱 熟悉Vue/React，擅长Web网页开发
+
+👯 熟悉Node.js
+
+🤔 熟练使用Git等工具
+
+💬 熟练使用Ant Design/Element UI框架
+
+📫 英语CET6
